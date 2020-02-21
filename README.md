@@ -14,3 +14,4 @@ A patch to use the Leap Motion controller inside Max/MSP with the help of [Reach
 
 ### To do:
 - Better and more compact presentation mode (UI)
+- A more efficient way to route all the OSC messages (?)
