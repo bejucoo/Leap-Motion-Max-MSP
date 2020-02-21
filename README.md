@@ -8,3 +8,7 @@ To use in your patch:
 - Create a bpatcher and set the patcher file
 - Use the values from the outlets of the bpatcher
 
+To do:
+- Better and more compact presentation mode (UI)
+- Get palm values (Reach issue report)
+
