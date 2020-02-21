@@ -7,8 +7,7 @@ To use in your patch:
 - Open Max and create a new patch
 - Create a bpatcher and set the patcher file
 - Use the values from the outlets of the bpatcher
+*Palm position values don't work with the latest Leap Motion SDK (Orion v4). If yoy want to use this values try with the v3.2.1 of the SDK. ([Reach issue](https://github.com/NiccoloGranieri/Reach/issues/8))
 
 To do:
 - Better and more compact presentation mode (UI)
-- Get palm values (Reach issue report)
-
