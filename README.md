@@ -1,7 +1,7 @@
 # Leap-Motion-Max-MSP
 A patch to control the Leap Motion controller inside Max/MSP with the help of [Reach, an open source Leap Motion OSC Sender](https://github.com/NiccoloGranieri/Reach) made by [Niccolo Granieri](https://github.com/NiccoloGranieri) and [Jefferson Bledsoe](https://github.com/JeffersonBledsoe).
 
-To use in your patch:
+## To use in your patch:
 - Open Reach
 - Set the baud rate speed (by default is in 200 but lower values get better and smoother results)
 - Open Max and create a new patch
@@ -10,5 +10,5 @@ To use in your patch:
 
 *Palm position values don't work with the latest Leap Motion SDK (Orion v4). If yoy want to use this values try with the v3.2.1 of the SDK. ([Reach issue](https://github.com/NiccoloGranieri/Reach/issues/8))*
 
-To do:
+### To do:
 - Better and more compact presentation mode (UI)
