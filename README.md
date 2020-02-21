@@ -1,3 +1,5 @@
+![leap-max](https://i.imgur.com/gsSca6B.png)
+
 # Leap-Motion-Max-MSP
 A patch to use the Leap Motion controller inside Max/MSP with the help of [Reach, an open source Leap Motion OSC Sender](https://github.com/NiccoloGranieri/Reach) made by [Niccolo Granieri](https://github.com/NiccoloGranieri) and [Jefferson Bledsoe](https://github.com/JeffersonBledsoe).
 
