@@ -1,4 +1,4 @@
-![leap-max](https://i.imgur.com/gsSca6B.png)
+![leap-max](https://i.imgur.com/asehULC.png)
 
 # Leap-Motion-Max-MSP
 A patch to use the Leap Motion controller inside Max/MSP with the help of [Reach, an open source Leap Motion OSC Sender](https://github.com/NiccoloGranieri/Reach) made by [Niccolo Granieri](https://github.com/NiccoloGranieri) and [Jefferson Bledsoe](https://github.com/JeffersonBledsoe).
@@ -11,7 +11,3 @@ A patch to use the Leap Motion controller inside Max/MSP with the help of [Reach
 - Use the values from the outlets of the bpatcher
 
 *Palm position values don't work with the latest Leap Motion SDK (Orion v4). If yoy want to use this values try with the v3.2.1 of the SDK. ([Reach issue](https://github.com/NiccoloGranieri/Reach/issues/8))*
-
-### To do:
-- Better and more compact presentation mode (UI)
-- A more efficient way to route all the OSC messages (?)
