@@ -10,4 +10,4 @@ A patch to use the Leap Motion controller inside Max/MSP with the help of [Reach
 - Create a bpatcher and set the patcher file
 - Use the values from the outlets of the bpatcher
 
-*Palm position values don't work with the latest Leap Motion SDK (Orion v4). If yoy want to use this values try with the v3.2.1 of the SDK. ([Reach issue](https://github.com/NiccoloGranieri/Reach/issues/8))*
+*Palm position values don't work with the latest Leap Motion SDK (Orion v4). If you want to use this values try with the v3.2.1 or the v2.3.1 of the SDK. ([Reach issue](https://github.com/NiccoloGranieri/Reach/issues/8))*
